@@ -8,7 +8,9 @@ The goal is to build a strong foundation in **data analysis, machine learning, a
 ---
 
 ## 📂 Repository Structure 
-- **[linear_algebra](ca://s?q=Linear_algebra_for_AI_in_Python)** → Vectors, matrices, and operations essential for ML.  
+-Math Foundations:
+   - **[Linear_algebra - Basiscs](ca://s?q=Linear_algebra_for_AI_in_Python)** → Vectors, matrices.
+   - **[Linear Algebra - Operations]** → Operations with Vectors,Matrices
 - **[machine_learning](ca://s?q=Machine_learning_basics_in_Python)** → Regression, classification, clustering models.  
 - **[deep_learning](ca://s?q=Deep_learning_basics_in_Python)** → Neural networks with TensorFlow/PyTorch.  
 - **[notebooks](ca://s?q=AI_learning_notebooks_in_Python)** → Jupyter notebooks with explanations and visualizations.  
