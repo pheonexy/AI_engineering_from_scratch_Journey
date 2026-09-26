@@ -1,0 +1,20 @@
+The “Build vs Buy vs Borrow” Decision Matrix
+
+This is where AI strategists show their value. When you decide on a feature to build, you have three main options for how to set it up.
+
+You’ll need to weigh the costs, speed, and accuracy of each choice.
+
+Prompt engineering is the ‘buy’ option. You use a ready-made API from companies like OpenAI, Google, or Anthropic, and guide the model using only text instructions.
+
+This approach is good for prototyping, general tasks like summarization or sentiment analysis, and when you have a limited budget.
+
+Retrieval-Augmented Generation, or RAG, is the ‘borrow’ option. Instead of using only the model’s built-in memory, you connect the AI to your company’s internal database.
+
+This method is best when you need high accuracy, are working with private company data, or want to avoid situations where the AI makes up information.
+
+Fine-tuning is the ‘build’ option. You start with an open-source model, such as Meta’s Llama, and train it further using your own data to change its tone or add specialized knowledge.
+
+This is useful when you need a very specific format, like creating legal contracts, or when you want full control over the model for data privacy.
+
+[The “Build vs Buy vs Borrow” Decision Matrix]
+https://amanxai.com/2026/04/13/ai-roadmap-for-non-tech-professionals/
